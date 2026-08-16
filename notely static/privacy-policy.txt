@@ -1,0 +1,155 @@
+PRIVACY POLICY — NOTELY
+Last updated: 15 August 2026
+
+This policy explains what Notely ("the app", "we") collects, why, and what
+control you have. It covers the Notely Android app and its backend.
+
+IN SHORT: we collect the minimum needed to run an account and a paid pass —
+your name, email, chosen course, and a random device identifier. We do not sell
+your data, we do not run ads or advertising trackers, and we do not collect your
+location, contacts, photos, or files.
+
+
+1. WHO IS RESPONSIBLE
+
+Notely is operated by the developer of the Notely app ("we"). For any privacy
+question or request, contact us at socializeme11@gmail.com. We aim to reply
+within 30 days.
+
+
+2. WHAT WE COLLECT AND WHY
+
+Email address
+  Why: To create and sign you in to your account, send password resets, and
+  contact you about your account.
+  Source: You, at sign-up (or your Google account if you use Google Sign-In).
+
+Name
+  Why: Shown in the app and watermarked on notes you open, to discourage
+  redistribution of paid material.
+  Source: You, at sign-up (or your Google account).
+
+Chosen course / branch
+  Why: To show you the right subjects and notes.
+  Source: You, in the app.
+
+A random device identifier
+  Why: To enforce one active device per account, which protects paid content
+  from account sharing.
+  Source: Generated randomly by the app and stored on your device. It is NOT
+  your hardware ID, IMEI, advertising ID, or any identifier that can track you
+  across other apps.
+
+Device type and OS version
+  Why: Shown so you can recognise which device holds your active session.
+  Source: Your device.
+
+Purchase records
+  Why: To grant and track your Premium pass, and to support refund queries.
+  Source: Google Play, when you buy a pass. We receive a purchase token and
+  order ID. WE NEVER SEE OR STORE YOUR CARD, UPI ID, OR BANK DETAILS.
+
+Saved notes (bookmarks) and which single note you unlocked for free
+  Why: To provide the library feature and to apply the one-free-note rule.
+  Source: Your activity in the app.
+
+
+WHAT WE DO NOT COLLECT
+
+  - Location of any kind
+  - Contacts, SMS, call logs, photos, camera or microphone data
+  - Files or documents from your device
+  - Advertising identifiers; the app contains no ads and no advertising SDKs
+  - Third-party analytics or behavioural tracking
+  - Payment card, UPI, or bank details (these stay with Google Play)
+
+
+3. LEGAL BASIS
+
+We process this data to perform the contract you enter into when you create an
+account and buy a pass, and on the basis of our legitimate interest in
+preventing unauthorised sharing of paid study material.
+
+
+4. WHO WE SHARE IT WITH
+
+We do not sell your personal data and we do not share it for advertising. We use
+these service providers, who process data on our behalf:
+
+Supabase (https://supabase.com/privacy)
+  Purpose: Hosts our database, authentication and file storage.
+  Data involved: All account data listed above.
+
+Google Play (https://policies.google.com/privacy)
+  Purpose: Processes purchases and verifies them.
+  Data involved: Purchase token, order ID. Payment details are handled entirely
+  by Google and never reach us.
+
+We may also disclose data where we are legally required to, or to investigate
+suspected abuse of paid content.
+
+
+5. WHERE DATA IS STORED
+
+Our database and file storage are hosted by Supabase in the Asia-Pacific
+(Sydney) region. If you use the app from outside that region, your data is
+transferred there.
+
+
+6. HOW LONG WE KEEP IT
+
+  - Account data — until you delete your account.
+  - Purchase records — deleted with your account. Google Play keeps its own
+    transaction records independently, under its own policy.
+  - Device session — replaced whenever you sign in on a new device, and removed
+    when you sign out.
+
+
+7. DELETING YOUR ACCOUNT AND DATA
+
+You can delete your account and all associated data at any time:
+
+  - In the app: Profile > Delete my account. You will be asked to type DELETE
+    to confirm.
+  - If you have uninstalled the app: use our account deletion request page.
+
+Deletion is immediate and irreversible. It removes your profile, saved notes,
+device session and purchase records from our systems. Any remaining Premium time
+is forfeited and is not refundable. Notes downloaded to your device are removed
+from the app's private storage when you sign out or delete your account.
+
+
+8. YOUR RIGHTS
+
+Depending on where you live, you may have the right to access, correct, export,
+or delete your personal data, and to object to or restrict its processing. You
+can exercise most of these directly in the app, or by emailing
+socializeme11@gmail.com.
+
+
+9. SECURITY
+
+We protect your data with: encryption in transit (HTTPS/TLS) and at rest;
+row-level security in the database, so one account cannot read another's data;
+time-limited signed links for note files, which expire after two minutes; and
+one-active-device enforcement. No system is perfectly secure, but we take these
+measures seriously and review them.
+
+
+10. CHILDREN
+
+Notely is intended for college students and is not directed at children under
+13. We do not knowingly collect data from children under 13. If you believe a
+child has given us personal data, contact us and we will delete it.
+
+
+11. CHANGES
+
+If we change this policy we will update the date at the top and, for significant
+changes, notify you in the app. Continuing to use Notely after a change means
+you accept the updated policy.
+
+
+12. CONTACT
+
+Questions, requests or complaints: socializeme11@gmail.com
